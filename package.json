@@ -1,0 +1,19 @@
+{
+  "name": "audio-context-monkey-patch",
+  "version": "1.0.0",
+  "description": "AudioContext monkeypatch ==============================",
+  "main": "AudioContextMonkeyPatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiedust/AudioContext-MonkeyPatch.git"
+  },
+  "author": "Jamie 'dust' Woolgar <jamie@jamiewoolgar.net> (http://jamiewoolgar.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamiedust/AudioContext-MonkeyPatch/issues"
+  },
+  "homepage": "https://github.com/jamiedust/AudioContext-MonkeyPatch#readme"
+}
